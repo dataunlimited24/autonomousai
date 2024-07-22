@@ -76,8 +76,3 @@ A structured plan is outlined for navigating the journey towards autonomous AI, 
 
 ## References
 - [Hidden Technical Debt in Machine Learning Systems](https://proceedings.neurips.cc/paper_files/paper/2015/file/86df7dcfd896fcaf2674f757a2463eba-Paper.pdf)
-
-For more details and to access the full narrative, please refer to the uploaded document.
-
----
-This README file provides an overview of the key sections and themes of the Autonomous AI project, ensuring a comprehensive understanding of the narrative and strategic insights presented.
